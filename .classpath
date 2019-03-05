@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/Jars/json-20180130.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/Jars/minimal-json-0.9.4.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/Jars/json-flattener-0.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/Jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/bson-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/json-rpc-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Documents/drivers2/mysql-connector-java-5.1.34.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Downloads/sqlrelayjdbc.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Downloads/sqlrelay.jar"/>
+	<classpathentry kind="lib" path="/home/exa1/Downloads/protobuf-master/examples/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
